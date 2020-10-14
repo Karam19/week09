@@ -1,0 +1,4 @@
+There is a inverse proportion between the Hit\Miss ratio and the number of pages we access
+In other words: 
+increasing the number of pages ==> decreasing the Hit\Miss ratio
+decreasing the number of pages ==> increasing the Hit\Miss ratio
